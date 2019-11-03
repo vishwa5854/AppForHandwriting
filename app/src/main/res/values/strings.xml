@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Multiple Activities</string>
+    <string name="activity1">Activity1</string>
+    <string name="activity2">activity2</string>
+    <string name="gotoactivity2">GoToActivity2</string>
+    <string name="hey_welcome_to_converter">Hey Welcome To Converter</string>
+    <string name="show_handwriting">Show HandWriting</string>
+    <string name="choose_the_file">choose the file</string>
+    <string name="todo">TODO</string>
+    <string name="hi_hello">Hi hello</string>
+</resources>
