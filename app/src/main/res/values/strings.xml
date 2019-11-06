@@ -8,4 +8,7 @@
     <string name="choose_the_file">choose the file</string>
     <string name="todo">TODO</string>
     <string name="hi_hello">Hi hello</string>
+    <string name="choose_the_capital_letters_file">choose the capital letters file</string>
+    <string name="enter_the_text">Enter the text</string>
+    <string name="text">Text</string>
 </resources>

@@ -79,8 +79,6 @@ public class Activity2 extends AppCompatActivity {
                 Data.NUMBERS = imageData;
                 System.out.println(Data.NUMBERS[0][9]);
                 message.setText("Okay hold on");
-                SendData sendData = new SendData();
-                sendData.execute();
                 openActivity3();
             }
             count++;
