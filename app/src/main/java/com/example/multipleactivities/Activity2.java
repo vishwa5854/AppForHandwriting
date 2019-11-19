@@ -68,12 +68,12 @@ public class Activity2 extends AppCompatActivity {
             if(count == 0){
                 Data.CAPITAL_LETTERS = imageData;
                 System.out.println(Data.CAPITAL_LETTERS[0][9]);
-                message.setText("Now Choose the small letters");
+                message.setText("Choose the small letters");
             }
             if(count == 1){
                 Data.SMALL_LETTERS = imageData;
                 System.out.println(Data.SMALL_LETTERS[0][9]);
-                message.setText("Now choose the numbers file");
+                message.setText("Choose the numbers file");
             }
             if(count == 2){
                 Data.NUMBERS = imageData;
